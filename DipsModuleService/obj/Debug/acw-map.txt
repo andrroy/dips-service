@@ -1,0 +1,2 @@
+DipsModuleService.MainActivity;dipsmoduleservice.MainActivity
+DipsModuleService.DipsModuleService;dipsmoduleservice.DipsModuleService

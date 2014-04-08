@@ -1,0 +1,14 @@
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/bin/Release/DipsModuleService.dll.mdb
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/bin/Release/DipsModuleService.dll
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/bin/Release/DipsModuleService.DipsModuleService.apk
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/android/bin/DipsModuleService.DipsModuleService.apk
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/res/layout/main.xml
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/res/values/strings.xml
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/res/drawable/icon.png
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/R.cs.flag
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/bin/Release/DipsModuleService.DipsModuleService-Signed.apk
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/uploadflags.txt
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/DipsModuleService.dll
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/DipsModuleService.dll.mdb
+/Users/andrroy/Projects/DipsModuleService/DipsModuleService/obj/Release/MonoAndroid,Version=v4.3.AssemblyAttribute.cs
